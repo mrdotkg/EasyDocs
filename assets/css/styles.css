@@ -1266,7 +1266,7 @@ select {
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
 .selected{
-  background-color: #5c2b70;
+  background-color: #8A40A7;
   color: white !important;
 }
 ul.tags-ul li{
