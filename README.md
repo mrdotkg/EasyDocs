@@ -1,5 +1,10 @@
 # EasyDocs
 
+
+
+##Demo:
+[Demo link](https://measdot.github.io/EasyDocs/)
+
 ##Features:
 * minimal and intutive design(inspired by [PRETTYDOCS](https://github.com/xriley/PrettyDocs-Theme))
 * fast
